@@ -211,7 +211,3 @@ class MovieInfo(BaseModel):
 - [ ] Add sentiment analysis of the review
 - [ ] Deploy on Streamlit Community Cloud (store the key in Streamlit secrets)
 
----
-
-## License
-Add a license of your choice (e.g., MIT) before publishing.
